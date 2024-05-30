@@ -1,29 +1,35 @@
-username: <username>
-password: <password>
-phone_number: <phone_number>
+username: leahkanestos96@gmail.com
+password: Ifllah134!!
+phone_number: 9122178696
 
-profile_path: '' #can be empty, will default to 'C:\Users\<user>\AppData\Local\Google\Chrome\User Data\Default'
-
+profile_path: "" #can be empty, will default to 'C:\Users\<user>\AppData\Local\Google\Chrome\User Data\Default'
 
 positions:
-- Software Engineer
-
+  - Software Engineer
+  - Software Developer
+  - React Developer
 
 locations:
-- Michigan
-- Remote
+  - Savannah, Georgia, United States
+  - Remote
 
-salary: 60,000
-rate: 25
+salary: 75,000
+rate: 38
 # --------- Optional Parameters -------
 uploads:
-  Resume: /Users/steven/Desktop/LinkedIn-Easy-Apply-Bot/cv.pdf
-  Cover Letter: /Users/steven/Desktop/LinkedIn-Easy-Apply-Bot/cl.pdf
-  #Photo: # PATH TO photo
-
+  Resume: Users/leahanestos/Desktop/Projects/LinkedIn-Easy-Apply-Bot/junior.pdf
+  Photo: Users/leahanestos/Desktop/Projects/LinkedIn-Easy-Apply-Bot/leahphoto.png
 
 output_filename:
-- /Users/steven/Desktop/LinkedIn-Easy-Apply-Bot/out.csv
+  - /Users/leahanestos/Desktop/Projects/LinkedIn-Easy-Apply-Bot/out.csv
 
 # blacklist:
 # - # Company names you want to ignore
+
+experience_level:
+  - 1  Entry level
+  - 2  Associate
+  # - 3 # Mid-Senior level
+  # - 4 # Director
+  # - 5 # Executive
+  # - 6 # Internship

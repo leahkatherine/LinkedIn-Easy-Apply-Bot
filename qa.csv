@@ -50,3 +50,742 @@ are you comfortable commuting to this job's location?
 required
 yes
 no",Yes
+"how many years of work experience do you have with terraform?
+enter a whole number between 0 and 99",1
+how many years of work experience do you have with amazon web services (aws)?,1
+how many years of work experience do you have with .net core?,1
+"how many years of work experience do you have with full-stack development?
+enter a whole number between 0 and 99",1
+"how many years of work experience do you have with netsuite?
+enter a whole number between 0 and 99",1
+how many years of work experience do you have with full-stack development?,1
+how many years of work experience do you have with javascript?,1
+"how many years of work experience do you have with workday?
+enter a whole number between 0 and 99",1
+"how many years of work experience do you have with chatbot development?
+enter a whole number between 0 and 99",1
+how many years of work experience do you have with workday?,1
+"excluding school, internships, co-ops, unpaid, or part-time work, for how many years have you been employed as a professional software engineer/developer?
+enter a decimal number larger than 0.0",1
+how many years of work experience do you have with microsoft sql server?,1
+"how many years of work experience do you have with relational databases?
+enter a whole number between 0 and 99",1
+"how many years of work experience do you have with aws cloudformation?
+enter a whole number between 0 and 99",1
+"how many years of work experience do you have with warehouse operations?
+enter a whole number between 0 and 99",1
+how many years of work experience do you have with aws cloudformation?,1
+"how many years of work experience do you have with tableau?
+enter a whole number between 0 and 99",1
+how many years of work experience do you have with web development?,1
+how many years of work experience do you have with ruby?,1
+"how many years of experience do you have with llm's / openai
+enter a decimal number larger than 0.0",0
+"have you worked on any shopify development before?
+have you worked on any shopify development before?
+required
+       select an option
+       yes
+       no
+   please enter a valid answer",Yes
+"have you worked on any shopify development before?
+have you worked on any shopify development before?
+required
+       select an option
+       yes
+       no
+  ",Yes
+how many years of work experience do you have with html?,1
+"how many years of work experience do you have with dashboard building?
+enter a whole number between 0 and 99",1
+"are you comfortable working in a remote setting?
+are you comfortable working in a remote setting?
+required
+yes
+no",Yes
+"are you willing to undergo a background check, in accordance with local law/regulations?
+are you willing to undergo a background check, in accordance with local law/regulations?
+required
+yes
+no",Yes
+"have you built a game before?
+have you built a game before?
+required
+       select an option
+       yes
+       no
+  ",Yes
+"do you have a personal project portfolio to share?
+do you have a personal project portfolio to share?
+required
+       select an option
+       yes
+       no
+   please enter a valid answer",Yes
+"do you have a personal project portfolio to share?
+do you have a personal project portfolio to share?
+required
+       select an option
+       yes
+       no
+  ",Yes
+how many years of work experience do you have with dashboard building?,1
+"how many years of work experience do you have with kubernetes?
+enter a whole number between 0 and 99",1
+"how many years of experience do you have with an agile methodology (scrum, kanban, xp, etc.)?
+enter a decimal number larger than 0.0",1
+"how many years of experience do you have with node.js?
+enter a decimal number larger than 0.0",1
+"how many years of experience do you have with react?
+enter a decimal number larger than 0.0",1
+"what is your desired base salary?
+enter a decimal number larger than 0.0","75,000"
+"how many years of experience do you have developing software applications with java, javascript, python, postgres (or equivalent), html/css?
+enter a decimal number larger than 0.0",1
+"how many years of experience do you have with an agile methodology (scrum, kanban, xp, etc.)?",1
+how many years of experience do you have with node.js?,1
+how many years of experience do you have with react?,1
+what is your desired base salary?,"75,000"
+"how many years of experience do you have developing software applications with java, javascript, python, postgres (or equivalent), html/css?",1
+how many years of work experience do you have with kubernetes?,1
+"do you have a valid driver's license?
+do you have a valid driver's license?
+required
+yes
+no",Yes
+"are you legally authorized to work in the united states permanently?
+are you legally authorized to work in the united states permanently?
+required
+       select an option
+       yes
+       no
+   please enter a valid answer",Yes
+"react experience.
+enter a decimal number larger than 0.0",1
+"redux experience.
+enter a decimal number larger than 0.0",1
+"total experience.
+enter a decimal number larger than 0.0",1
+"are you authorized to work independently?
+are you authorized to work independently?
+required
+       select an option
+       yes
+       no
+   please enter a valid answer",Yes
+"authorized to work in us without sponsorship.
+authorized to work in us without sponsorship.
+required
+       select an option
+       yes
+       no
+   please enter a valid answer",No
+react experience.,1
+redux experience.,1
+total experience.,1
+"are you authorized to work independently?
+are you authorized to work independently?
+required
+       select an option
+       yes
+       no
+  ",Yes
+"authorized to work in us without sponsorship.
+authorized to work in us without sponsorship.
+required
+       select an option
+       yes
+       no
+  ",No
+how many years of work experience do you have with react.js?,1
+"what is your level of proficiency in english?
+what is your level of proficiency in english?
+required
+       select an option
+       none
+       conversational
+       professional
+       native or bilingual
+  ",user provided
+"how many years of work experience do you have with ruby on rails?
+enter a whole number between 0 and 99",1
+"what is your approximate hourly compensation requirement?
+enter a decimal number larger than 0.0",user provided
+how many years of work experience do you have with ruby on rails?,1
+how many years of work experience do you have with next.js?,1
+how many years of work experience do you have with python (programming language)?,1
+"are you familiar with containerized environments?
+are you familiar with containerized environments?
+required
+       select an option
+       yes
+       no
+   please enter a valid answer",Yes
+"how many years of work experience do you have with windows presentation foundation (wpf)?
+enter a whole number between 0 and 99",1
+how many years of work experience do you have with c#?,1
+how many years of work experience do you have with sql?,1
+"how many years of work experience do you have with blazor?
+enter a whole number between 0 and 99",1
+how many years of work experience do you have with angular?,1
+how many years of work experience do you have with blazor?,1
+"how many years of work experience do you have with react hooks?
+enter a whole number between 0 and 99",1
+"do you have a computer science degree?
+do you have a computer science degree?
+required
+       select an option
+       yes
+       no
+   please enter a valid answer",Yes
+how many years of work experience do you have with react hooks?,1
+school,user provided
+"city
+city",user provided
+degree,user provided
+major / field of study,user provided
+"i currently attend this institution
+dates attended
+dates attended
+required
+from
+required
+month of from
+    month
+    january
+    february
+    march
+    april
+    may
+    june
+    july
+    august
+    september
+    october
+    november
+    december
+year of from
+    year
+    2024
+    2023
+    2022
+    2021
+    2020
+    2019
+    2018
+    2017
+    2016
+    2015
+    2014
+    2013
+    2012
+    2011
+    2010
+    2009
+    2008
+    2007
+    2006
+    2005
+    2004
+    2003
+    2002
+    2001
+    2000
+    1999
+    1998
+    1997
+    1996
+    1995
+    1994
+    1993
+    1992
+    1991
+    1990
+    1989
+    1988
+    1987
+    1986
+    1985
+    1984
+    1983
+    1982
+    1981
+    1980
+    1979
+    1978
+    1977
+    1976
+    1975
+    1974
+    1973
+    1972
+    1971
+    1970
+    1969
+    1968
+    1967
+    1966
+    1965
+    1964
+    1963
+    1962
+    1961
+    1960
+    1959
+    1958
+    1957
+    1956
+    1955
+    1954
+    1953
+    1952
+    1951
+    1950
+    1949
+    1948
+    1947
+    1946
+    1945
+    1944
+    1943
+    1942
+    1941
+    1940
+    1939
+    1938
+    1937
+    1936
+    1935
+    1934
+    1933
+    1932
+    1931
+    1930
+    1929
+    1928
+    1927
+    1926
+    1925
+    1924
+to
+required
+month of to
+    month
+    january
+    february
+    march
+    april
+    may
+    june
+    july
+    august
+    september
+    october
+    november
+    december
+year of to
+    year
+    2034
+    2033
+    2032
+    2031
+    2030
+    2029
+    2028
+    2027
+    2026
+    2025
+    2024
+    2023
+    2022
+    2021
+    2020
+    2019
+    2018
+    2017
+    2016
+    2015
+    2014
+    2013
+    2012
+    2011
+    2010
+    2009
+    2008
+    2007
+    2006
+    2005
+    2004
+    2003
+    2002
+    2001
+    2000
+    1999
+    1998
+    1997
+    1996
+    1995
+    1994
+    1993
+    1992
+    1991
+    1990
+    1989
+    1988
+    1987
+    1986
+    1985
+    1984
+    1983
+    1982
+    1981
+    1980
+    1979
+    1978
+    1977
+    1976
+    1975
+    1974
+    1973
+    1972
+    1971
+    1970
+    1969
+    1968
+    1967
+    1966
+    1965
+    1964
+    1963
+    1962
+    1961
+    1960
+    1959
+    1958
+    1957
+    1956
+    1955
+    1954
+    1953
+    1952
+    1951
+    1950
+    1949
+    1948
+    1947
+    1946
+    1945
+    1944
+    1943
+    1942
+    1941
+    1940
+    1939
+    1938
+    1937
+    1936
+    1935
+    1934
+    1933
+    1932
+    1931
+    1930
+    1929
+    1928
+    1927
+    1926
+    1925
+    1924
+please enter a valid answer",user provided
+"how many years of work experience do you have with emerging payments?
+enter a whole number between 0 and 99",1
+"how many years of project management experience do you currently have?
+enter a whole number between 0 and 99",1
+how many years of work experience do you have with emerging payments?,1
+how many years of project management experience do you currently have?,1
+how many years of work experience do you have with software development?,1
+how many years of work experience do you have with node.js?,1
+"do you have experience working with angular framework?
+do you have experience working with angular framework?
+required
+       select an option
+       yes
+       no
+   please enter a valid answer",1
+"are you familiar with agile scrum software development methodologies?
+are you familiar with agile scrum software development methodologies?
+required
+       select an option
+       yes
+       no
+   please enter a valid answer",Yes
+"are you comfortable working primarily on back-end development?
+are you comfortable working primarily on back-end development?
+required
+       select an option
+       yes
+       no
+   please enter a valid answer",Yes
+"do you have experience working with angular framework?
+do you have experience working with angular framework?
+required
+       select an option
+       yes
+       no
+  ",1
+"are you familiar with agile scrum software development methodologies?
+are you familiar with agile scrum software development methodologies?
+required
+       select an option
+       yes
+       no
+  ",Yes
+"current annual salary ?
+enter a decimal number larger than 0.0","75,000"
+"did you download the app (https://www.instaservice.com/get-app) and email your feedback to hiring@instaservice.com? it is a must requirement to filter the serious candidates.
+did you download the app (https://www.instaservice.com/get-app) and email your feedback to hiring@instaservice.com? it is a must requirement to filter the serious candidates.
+required
+       select an option
+       yes
+       no
+   please enter a valid answer",user provided
+"are you familiar with the ai technologies ?
+are you familiar with the ai technologies ?
+required
+       select an option
+       yes
+       no
+   please enter a valid answer",Yes
+"expected annual salary ?
+enter a decimal number larger than 0.0","75,000"
+current annual salary ?,"75,000"
+"are you familiar with the ai technologies ?
+are you familiar with the ai technologies ?
+required
+       select an option
+       yes
+       no
+  ",Yes
+expected annual salary ?,"75,000"
+"did you download the app (https://www.instaservice.com/get-app) and email your feedback to hiring@instaservice.com? it is a must requirement to filter the serious candidates.
+did you download the app (https://www.instaservice.com/get-app) and email your feedback to hiring@instaservice.com? it is a must requirement to filter the serious candidates.
+required
+       select an option
+       yes
+       no
+  ",user provided
+"how many years of experience do you have as a software engineer?
+enter a decimal number larger than 0.0",1
+"gender - gender, race and ethnicity (definitions)
+gender - gender, race and ethnicity
+required
+       select an option
+       male
+       female
+       prefer not to answer
+   please make a selection",Male
+"race/ethnicity - gender, race and ethnicity (definitions)
+race/ethnicity - gender, race and ethnicity
+required
+       select an option
+       black or african american
+       american indian or alaska native
+       asian
+       hispanic or latino
+       white
+       two or more races
+       prefer not to answer
+       native hawaiian or other pacific islander
+   please make a selection",Male
+"do you have (or have a history/record of having) a disability? (definitions)
+do you have (or have a history/record of having) a disability?
+required
+yes, i have a disability, or have had one in the past.
+no, i do not have a disability and have not had one in the past.
+i do not want to answer.
+please make a selection",Yes
+"are you a protected veteran? (definitions)
+are you a protected veteran?
+required
+yes
+no
+prefer not to answer
+please make a selection",Yes
+"gender - gender, race and ethnicity (definitions)
+gender - gender, race and ethnicity
+required
+       select an option
+       male
+       female
+       prefer not to answer
+  ",Male
+"race/ethnicity - gender, race and ethnicity (definitions)
+race/ethnicity - gender, race and ethnicity
+required
+       select an option
+       black or african american
+       american indian or alaska native
+       asian
+       hispanic or latino
+       white
+       two or more races
+       prefer not to answer
+       native hawaiian or other pacific islander
+  ",Male
+"are you legally authorized to work in the country where this job is located?
+are you legally authorized to work in the country where this job is located?
+required
+yes
+no",Yes
+"will you now or in the future require sponsorship to work in the country where this job is located?
+will you now or in the future require sponsorship to work in the country where this job is located?
+required
+yes
+no",No
+"are you related to a current employee of insightsoftware?
+are you related to a current employee of insightsoftware?
+required
+yes
+no",Yes
+"what is your desired total annual compensation including bonuses and commission (ote)?
+please enter a valid answer",user provided
+"if you were referred to this position by a current insightsoftware employee, please list the employee's full name.",user provided
+"your message to the hiring manager
+0/2,000
+2000 maximum characters allowed.",user provided
+what is your desired total annual compensation including bonuses and commission (ote)?,user provided
+"your message to the hiring manager
+31/2,000
+2000 maximum characters allowed.",user provided
+"how many years of work experience do you have with unix?
+enter a whole number between 0 and 99",1
+"how many years of work experience do you have with linux?
+enter a whole number between 0 and 99",1
+how many years of work experience do you have with unix?,1
+enter a whole number larger than 0,user provided
+please enter a valid answer,user provided
+,user provided
+"do you have at least 2 years of experience as a software engineer?
+do you have at least 2 years of experience as a software engineer?
+required
+       select an option
+       yes
+       no
+   please enter a valid answer",1
+"how many years of experience do you have with typescript or javascript?
+enter a decimal number larger than 0.0",1
+"are you familiar with serverless architectures or event-driven architectures?
+are you familiar with serverless architectures or event-driven architectures?
+required
+       select an option
+       yes
+       no
+   please enter a valid answer",Yes
+"have you worked with graphql in your previous projects?
+have you worked with graphql in your previous projects?
+required
+       select an option
+       yes
+       no
+   please enter a valid answer",Yes
+"are you familiar with agile development methodologies?
+are you familiar with agile development methodologies?
+required
+       select an option
+       yes
+       no
+   please enter a valid answer",Yes
+"on a scale of 1-5 (1 = poor; 5 = excellent), rate your proficiency in react (or a similar library/framework).
+enter a decimal number larger than 0.0",user provided
+"do you have at least 2 years of experience as a software engineer?
+do you have at least 2 years of experience as a software engineer?
+required
+       select an option
+       yes
+       no
+  ",1
+how many years of experience do you have with typescript or javascript?,1
+"are you familiar with serverless architectures or event-driven architectures?
+are you familiar with serverless architectures or event-driven architectures?
+required
+       select an option
+       yes
+       no
+  ",Yes
+"on a scale of 1-10, what's your experience with magento backend?
+enter a decimal number larger than 0.0",1
+"on a scale of 1-10, what's your experience with magento frontend?
+enter a decimal number larger than 0.0",1
+"on a scale of 1-10, what's your experience with react?
+enter a decimal number larger than 0.0",1
+"how many sites have you deployed using adobe cloud enterprise edition?
+enter a decimal number larger than 0.0",1
+"what's your desired salary or hourly rate (usd)?
+enter a decimal number larger than 0.0","75,000"
+"on a scale of 1-10, what's your experience customizing elasticsearch on magento cloud?
+enter a decimal number larger than 0.0",1
+"on a scale of 1-10, what's your experience with magento backend?",1
+"on a scale of 1-10, what's your experience with magento frontend?",1
+"on a scale of 1-10, what's your experience with react?",1
+how many sites have you deployed using adobe cloud enterprise edition?,1
+what's your desired salary or hourly rate (usd)?,"75,000"
+"how many years experience do you have with ""technical leadership""?
+enter a decimal number larger than 0.0",1
+"how many years experience do you have using vue.js?
+enter a decimal number larger than 0.0",1
+"how many years experience do you have using vue3?
+enter a decimal number larger than 0.0",1
+"how many years experience do you have using typescript?
+enter a decimal number larger than 0.0",1
+"how many years experience do you have using rawcss?
+enter a decimal number larger than 0.0",1
+"how many years experience do you have with ""technical leadership""?",1
+how many years experience do you have using vue.js?,1
+how many years experience do you have using vue3?,1
+how many years experience do you have using typescript?,1
+"can you work on a w2 basis? sorry, no c2c or opt ead.
+can you work on a w2 basis? sorry, no c2c or opt ead.
+required
+       select an option
+       yes
+       no
+   please enter a valid answer",Yes
+"how many years of experience do you have working with java on the back-end?
+enter a decimal number larger than 0.0",1
+about you,user provided
+"degree (highest achieved)
+degree (highest achieved)
+required
+       select an option
+       high school
+       associate's degree
+       bachelor's degree
+       master's degree
+       master of business administration (mba)
+       juris doctor (jd)
+       doctor of medicine (md)
+       doctor of philosophy (phd)
+       engineer's degree
+       other
+   please make a selection",user provided
+"have you worked with any ui frameworks?
+have you worked with any ui frameworks?
+required
+       select an option
+       yes
+       no
+   please enter a valid answer",Yes
+"have you transitioned from or to any frameworks?
+have you transitioned from or to any frameworks?
+required
+       select an option
+       yes
+       no
+   please enter a valid answer",Yes
+"are you comfortable presenting to different teams or customers?
+are you comfortable presenting to different teams or customers?
+required
+       select an option
+       yes
+       no
+   please enter a valid answer",Yes
